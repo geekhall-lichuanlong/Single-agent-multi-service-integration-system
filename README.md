@@ -342,12 +342,4 @@ npx --version
 FIRECRAWL_API_KEY=your_firecrawl_api_key
 ```
 
-## 安全说明
 
-- 不要提交 `.env`
-- 不要把 DeepSeek、高德或 Firecrawl Key 写入 README、代码或测试文件
-- 如果 Key 曾经暴露，建议在对应平台控制台重新生成
-
-## 许可证
-
-可按你的项目需要选择 MIT、Apache-2.0 或其他许可证。
